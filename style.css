@@ -53,7 +53,7 @@ ul {
 }
 .person-pic {
   position: absolute;
-  top: 295px;
+  top: 315px;
   transform: translate(-50%, -50%);
   border-radius: 50px;
   border: 3px solid #fff;
