@@ -68,7 +68,7 @@ ul {
   font-weight: 100;
 }
 .place {
-  margin-bottom: 33px;
+  margin-bottom: 20px;
   margin-top: 13px;
   color: var(--Dark-grayish-blue);
 }
@@ -82,7 +82,7 @@ ul {
 }
 .stats {
   display: flex;
-  margin-bottom: 35px;
+  margin-bottom: 20px;
   align-items: center;
   justify-content: space-around;
   margin-top: 29px;
